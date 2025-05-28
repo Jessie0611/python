@@ -7,17 +7,15 @@
             "fitness",
             "hiking",
             "tennis"
-        ],
-        "friends": [
-            {
-                "name": "Johnny",
-                "age": 34,
-                "isProgrammer": true,
-                "hobbies": [
-                    "fitness",
-                    "gaming"
-                ]
-            }
+        ]
+    },
+    {
+        "name": "Johnny",
+        "age": 34,
+        "isProgrammer": true,
+        "hobbies": [
+            "fitness",
+            "gaming"
         ]
     }
 ]
